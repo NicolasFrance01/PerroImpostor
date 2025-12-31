@@ -6,9 +6,11 @@ const ASSETS = [
     './main.js',
     './manifest.webmanifest',
     './hernanicono.png',
+    './hernaniconoapp.png',
     './hernanmenu.png',
     './hernanlibre.png',
-    './hernantriste.png'
+    './hernantriste.png',
+    './hernangenerica.png'
 ];
 
 self.addEventListener('install', (event) => {
